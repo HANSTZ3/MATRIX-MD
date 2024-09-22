@@ -82,4 +82,4 @@ href="https://whatsapp.com/channel/0029VakA1mu35fM18opH1s30"  target="blank"><im
 
 The WhatsApp Bot MATRIX MD is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THANKS 4++CHOOSING+MATRIX-MD+💞+by+badhackers" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=💞THANKS 4++CHOOSING+MATRIX-MD+💞+☠️+☠️" alt="Typing SVG" /></a>
