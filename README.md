@@ -16,3 +16,23 @@
 <a href="https://github.com/HANSTZ3/MATRIX-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/HANSTZ3/MATRIX-MD?style=social"></a>
 <a href="https://github.com/HANSTZ3/MATRIX-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/HANSTZ3/MATRIX-MD?label=Watching&style=social"></a>
   ￼Enter
+
+  
+***
+
+#### HOW TO DEPLOY IT☠️ 
+
+***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/HANSTZ3/MATRIX-MD/fork) It***
+
+***2.`GET SESSION_ID USING`***
+[`QR SCANNER`](https://yessert-eefa78ee1c8d.herokuapp.com/) OR [`PAIRING CODE`](https://yessert-eefa78ee1c8d.herokuapp.com/)
+ 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+***
+
+#### DEPLOY TO HEROKU 
+**1. If You Don't Have An Account On Heroku**
+
+- <a align="center"><a href="https://signup.heroku.com">
+ <img src="https://img.shields.io/badge/Create%20Account%20Now-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
