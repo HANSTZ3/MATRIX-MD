@@ -51,20 +51,28 @@
 
 
 
-.***HANS TECH***
+***HANS TECH***
+<a href="https://wa.me/255756530143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="255756530143" height="60" width="70" /></a>
+
+**YESSER TECH**
 <a href="https://wa.me/255621995482" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="255621995482" height="60" width="70" /></a>
 
-.**YESSER TECH***
-<a href="https://wa.me/255621995482" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="255621995482" height="60" width="70" /></a>
 
-
-𝕎𝔸𝕋𝕊𝔸ℙℙ ℂℍ𝔸ℕℕ𝔼𝕃
+**CHANNEL No.1**
 <a
 href="https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G"  target="blank"><img
  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="fredietech" height="60" width="70" /></a>
 
 
-𝕐𝕆𝕌𝕋𝕌𝔹𝔼 ℂℍ𝔸ℕℕ𝔼𝕃
+**CHANNEL No.2**
+<a
+href="https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G"  target="blank"><img
+ align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="fredietech" height="60" width="70" /></a>
+
+
+
+
+**support youtube**
 <a href="https://www.youtube.com/@Yesserboy92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="freditech" height="60" width="70" /></a>
 
 
