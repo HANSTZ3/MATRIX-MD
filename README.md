@@ -60,13 +60,13 @@
 
 **CHANNEL No.1**
 <a
-href="https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G"  target="blank"><img
+href="https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31"  target="blank"><img
  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="fredietech" height="60" width="70" /></a>
 
 
 **CHANNEL No.2**
 <a
-href="https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G"  target="blank"><img
+href="https://whatsapp.com/channel/0029VakA1mu35fM18opH1s30"  target="blank"><img
  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="fredietech" height="60" width="70" /></a>
 
 
